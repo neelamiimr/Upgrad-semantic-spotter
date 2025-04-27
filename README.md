@@ -56,7 +56,7 @@ Ensure you have the following installed:
 
 ### Installation
 1. Clone the repo:
-git clone https://github.com/SandeepGitGuy/Semantic_Spotter_AI_Project_GenAI_UpGrad_IIITB.git
+git clone https://github.com/neelamiimr/Upgrad-semantic-spotter.git
 
 2. Navigate to the project directory:
 cd Semantic_Spotter_AI_Project_GenAI_UpGrad_IIITB
