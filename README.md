@@ -106,8 +106,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 💬 Contact
 For any queries or feedback, feel free to reach out:
 
-- **Email**: sandy974278@gmail.com
-- **GitHub**: https://github.com/SandeepGitGuy
-- **LinkedIn**: www.linkedin.com/in/sandeepgowda24a319192
+- **GitHub**: https://github.com/neelamiimr
+- **LinkedIn**: www.linkedin.com/in/neelam-jhunjhunwalla-4b327631
 
 ---
