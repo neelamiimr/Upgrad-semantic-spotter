@@ -67,7 +67,7 @@ pip install -r requirements.txt
 - Please note: OpenAI API keys are required for the project to function. You can obtain them from the OpenAI website and change the same in the code. We have updated the code and added more models to make it more dynamic in V2 of the project.
 
 4. Run the main file from Jupyter environment:
-"Semantic_spotter_lamaindex_Sandeep.ipynb"
+"Semantic_spotter_lamaindex_Neelam.ipynb"
 
 ---
 
